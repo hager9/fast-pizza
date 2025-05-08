@@ -50,7 +50,7 @@ npm run dev
 - **Menu Page**: 
   ![Menu Page](https://github.com/hager9/fast-pizza/blob/main/public/menu.png)
 
-  - **Ordering Page**: 
+- **Ordering Page**: 
   ![Ordering Page](https://github.com/hager9/fast-pizza/blob/main/public/ordering.png)
 
 

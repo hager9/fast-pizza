@@ -47,9 +47,12 @@ npm run dev
 
 
 
-- **Wishlist Page**: 
-  ![Wishlist Page](https://github.com/hager9/e-commerceReact-js/blob/main/public/Images/Screenshot%202024-10-10%20004440.png)
+- **Menu Page**: 
+  ![Menu Page](https://github.com/hager9/fast-pizza/blob/main/public/menu.png)
+
+  - **Ordering Page**: 
+  ![Ordering Page](https://github.com/hager9/fast-pizza/blob/main/public/ordering.png)
 
 
-- **Orders Page**: 
-  ![Orders Page](https://github.com/hager9/e-commerceReact-js/blob/main/public/Images/Screenshot%202024-10-10%20004510.png)
+- **Order Details Page**: 
+  ![Order Details Page ](https://github.com/hager9/fast-pizza/blob/main/public/order%20details.png)
